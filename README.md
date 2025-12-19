@@ -13,7 +13,7 @@ I'm Ghazal a fresh Front-end student who is trying to learn and improve in web s
 -  💻Developed by Ghazal Nabaei
  -  🕒Date: 2025/12/20
  -  🔍Technologies Used - HTML , CSS
- -## 📸Screenshot
+## 📸Screenshots
  -  <img width="1903" height="863" alt="Image" src="https://github.com/user-attachments/assets/e5187c33-e03b-415f-a2ec-d40b2ce2483e" />
 
 <img width="1897" height="862" alt="Image" src="https://github.com/user-attachments/assets/915011c4-7d15-4c48-99eb-ff8b89c07d94" />
